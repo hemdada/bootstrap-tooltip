@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-tooltip",
   "version": "2.3.2",
-  "main": ["./boostrap-tooltip/boostrap-tooltip.js"]
+  "main": ["./boostrap-tooltip/boostrap-tooltip.js"],
   "ignore": [
     "**/.*",
     "node_modules",
